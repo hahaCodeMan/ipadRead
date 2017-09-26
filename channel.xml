@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<uixml>
+    <channel tilte="会议日程" update="true">
+        <file fileName="政府工作报告" fileNameOg="2013-12-18-10_3036177.pdf" unitName="3" pushTime="2013年12月18日10:30:36" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3036177.pdf" update="true"/>
+    </channel>
+  <channel tilte="政府文件" update="true">
+    <file fileName="政府工作报告" fileNameOg="2013-12-18-10_3036177.pdf" unitName="3" pushTime="2013年12月18日10:30:36" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3036177.pdf" update="true"/>
+  </channel>
+  <channel tilte="人大文件" update="true">
+    <file fileName="浙江省十一届人民代表大会环资委工作报告" fileNameOg="2013-12-18-10_4102928.pdf" unitName="5" pushTime="2013年12月18日10:41:02" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4102928.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会农委工作报告" fileNameOg="2013-12-18-10_4049035.pdf" unitName="5" pushTime="2013年12月18日10:40:49" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4049035.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会内务司法委员会工作报告" fileNameOg="2013-12-18-10_4032168.pdf" unitName="5" pushTime="2013年12月18日10:40:32" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4032168.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会民侨委工作报告" fileNameOg="2013-12-18-10_4019686.pdf" unitName="5" pushTime="2013年12月18日10:40:19" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4019686.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会教育科技文化卫生委员会工作报告" fileNameOg="2013-12-18-10_3914333.pdf" unitName="5" pushTime="2013年12月18日10:39:14" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3914333.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会财政经济委员会工作报告" fileNameOg="2013-12-18-10_3901453.pdf" unitName="5" pushTime="2013年12月18日10:39:01" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3901453.pdf" update="true"/>
+    <file fileName="浙江省第十一届人民代表大会法制委员会工作报告" fileNameOg="2013-12-18-10_3848915.pdf" unitName="5" pushTime="2013年12月18日10:38:48" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3848915.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于浙江省2012年国民经济和社会发展计划执行情况及2013年国民经济和社会发展计划的决议" fileNameOg="2013-12-18-10_3835419.pdf" unitName="5" pushTime="2013年12月18日10:38:35" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3835419.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议计划预算审查委员会关于2012年全省和省级预算执行情况及2013年全省和省级预算草案的审查报告" fileNameOg="2013-12-18-10_3819990.pdf" unitName="5" pushTime="2013年12月18日10:38:19" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3819990.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于政府工作报告的决议" fileNameOg="2013-12-18-10_3805740.pdf" unitName="5" pushTime="2013年12月18日10:38:05" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3805740.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于浙江省2012年国民经济和社会发展计划执行情况及2013年国民经济和社会发展计划的决议" fileNameOg="2013-12-18-10_3751557.pdf" unitName="5" pushTime="2013年12月18日10:37:51" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3751557.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于议案截止日期的决定" fileNameOg="2013-12-18-10_3737649.pdf" unitName="5" pushTime="2013年12月18日10:37:37" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3737649.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于省人民检察院工作报告的决议" fileNameOg="2013-12-18-10_3725115.pdf" unitName="5" pushTime="2013年12月18日10:37:25" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3725115.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于省人民法院工作报告的决议" fileNameOg="2013-12-18-10_3712312.pdf" unitName="5" pushTime="2013年12月18日10:37:12" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3712312.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议关于2012年全省和省级预算执行情况及2013年全省和省级预算的决议" fileNameOg="2013-12-18-10_3653735.pdf" unitName="5" pushTime="2013年12月18日10:36:53" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3653735.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议" fileNameOg="2013-12-18-10_3635839.pdf" unitName="5" pushTime="2013年12月18日10:36:35" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3635839.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会" fileNameOg="2013-12-18-10_3602370.pdf" unitName="5" pushTime="2013年12月18日10:36:02" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3602370.pdf" update="true"/>
+  </channel>
+  <channel tilte="两院文件" update="true">
+    <file fileName="浙江省人民检察院工作报告" fileNameOg="2013-12-18-10_4411396.pdf" unitName="7" pushTime="2013年12月18日10:44:11" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4411396.pdf" update="true"/>
+    <file fileName="浙江省高级人民法院工作报告" fileNameOg="2013-12-18-10_4359802.pdf" unitName="7" pushTime="2013年12月18日10:43:59" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4359802.pdf" update="true"/>
+  </channel>
+  <channel tilte="参阅文件" update="true">
+    <file fileName="一次会议专门委员会组成人员人选通过办法" fileNameOg="2013-12-18-10_1731081.pdf" unitName="1" pushTime="2013年12月18日10:17:31" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1731081.pdf" update="true"/>
+    <file fileName="一次会议议程" fileNameOg="2013-12-18-10_1715139.pdf" unitName="1" pushTime="2013年12月18日10:17:15" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1715139.pdf" update="true"/>
+    <file fileName="一次会议选举办法" fileNameOg="2013-12-18-10_1702428.pdf" unitName="1" pushTime="2013年12月18日10:17:02" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1702428.pdf" update="true"/>
+    <file fileName="一次会议列席人员名单" fileNameOg="2013-12-18-10_1647525.pdf" unitName="1" pushTime="2013年12月18日10:16:47" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1647525.pdf" update="true"/>
+    <file fileName="一次会议各代表团团长、副团长名单" fileNameOg="2013-12-18-10_1633423.pdf" unitName="1" pushTime="2013年12月18日10:16:33" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1633423.pdf" update="true"/>
+    <file fileName="一次会议代表提出的议案处理意见的报告" fileNameOg="2013-12-18-10_1617637.pdf" unitName="1" pushTime="2013年12月18日10:16:17" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1617637.pdf" update="true"/>
+    <file fileName="一次代表名单（省代表）" fileNameOg="2013-12-18-10_1556077.pdf" unitName="1" pushTime="2013年12月18日10:15:56" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1556077.pdf" update="true"/>
+    <file fileName="一次会议选举总监票人名单" fileNameOg="2013-12-18-10_1544397.pdf" unitName="1" pushTime="2013年12月18日10:15:44" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1544397.pdf" update="true"/>
+    <file fileName="一次会议选举监票人名单" fileNameOg="2013-12-18-10_1523574.pdf" unitName="1" pushTime="2013年12月18日10:15:23" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_1523574.pdf" update="true"/>
+  </channel>
+  <channel tilte="其他文件" update="true">
+    <file fileName="201310-杂志" fileNameOg="2013-12-18-10_4253538.pdf" unitName="6" pushTime="2013年12月18日10:42:53" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4253538.pdf" update="true"/>
+  </channel>
+  <channel tilte="会议简报" update="true">
+    <file fileName="第11号" fileNameOg="2013-12-18-10_5059147.pdf" unitName="8" pushTime="2013年12月18日10:50:59" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5059147.pdf" update="true"/>
+    <file fileName="第10号" fileNameOg="2013-12-18-10_5044276.pdf" unitName="8" pushTime="2013年12月18日10:50:44" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5044276.pdf" update="true"/>
+    <file fileName="第9号" fileNameOg="2013-12-18-10_5030838.pdf" unitName="8" pushTime="2013年12月18日10:50:30" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5030838.pdf" update="true"/>
+    <file fileName="第7号" fileNameOg="2013-12-18-10_5017750.pdf" unitName="8" pushTime="2013年12月18日10:50:17" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5017750.pdf" update="true"/>
+    <file fileName="第6号" fileNameOg="2013-12-18-10_4943885.pdf" unitName="8" pushTime="2013年12月18日10:49:43" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4943885.pdf" update="true"/>
+    <file fileName="第5号" fileNameOg="2013-12-18-10_4919148.pdf" unitName="8" pushTime="2013年12月18日10:49:19" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4919148.pdf" update="true"/>
+    <file fileName="第3号" fileNameOg="2013-12-18-10_4907274.pdf" unitName="8" pushTime="2013年12月18日10:49:07" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4907274.pdf" update="true"/>
+    <file fileName="第2号" fileNameOg="2013-12-18-10_4854905.pdf" unitName="8" pushTime="2013年12月18日10:48:54" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4854905.pdf" update="true"/>
+    <file fileName="第1号" fileNameOg="2013-12-18-10_4838463.pdf" unitName="8" pushTime="2013年12月18日10:48:38" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_4838463.pdf" update="true"/>
+  </channel>
+  <channel tilte="日程议程" update="true">
+    <file id="10448" fileName="浙江省第十二届人民代表大会第一次会议议程" fileNameOg="2014-01-23-12_0335495.pdf" pushTime="2013年01月23日12:03:35" url="http://oa.risencn.com:2580/atts/HyMaterial/2014-01-23-12_0335495.pdf" update="true"/>
+    <file id="10197" fileName="浙江省第十二届人民代表大会第一次会议议程" fileNameOg="2013-12-18-10_3356727.pdf" unitName="4" pushTime="2013年12月18日10:33:56" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3356727.pdf" update="true"/>
+    <file id="10195" fileName="浙江省第十二届人民代表大会第一次会议日程" fileNameOg="2013-12-18-10_3342132.pdf" unitName="4" pushTime="2013年12月18日10:33:42" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_3342132.pdf" update="true"/>
+  </channel>
+  <channel tilte="各项名单" update="true">
+    <file fileName="浙江省第十二届人民代表大会第一次会议主席团和秘书长名单" fileNameOg="2013-12-18-10_5515960.pdf" unitName="9" pushTime="2013年12月18日10:55:15" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5515960.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议主席团常务主席名单" fileNameOg="2013-12-18-10_5503505.pdf" unitName="9" pushTime="2013年12月18日10:55:03" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5503505.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议执行主席分组名单" fileNameOg="2013-12-18-10_5450238.pdf" unitName="9" pushTime="2013年12月18日10:54:50" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5450238.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议选举总监票人名单" fileNameOg="2013-12-18-10_5438201.pdf" unitName="9" pushTime="2013年12月18日10:54:38" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5438201.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议选举监票人名单" fileNameOg="2013-12-18-10_5423585.pdf" unitName="9" pushTime="2013年12月18日10:54:23" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5423585.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议列席人员名单" fileNameOg="2013-12-18-10_5411722.pdf" unitName="9" pushTime="2013年12月18日10:54:11" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5411722.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议计划预算审查委员会名单" fileNameOg="2013-12-18-10_5359007.pdf" unitName="9" pushTime="2013年12月18日10:53:59" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5359007.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议各代表团团长、副团长名单" fileNameOg="2013-12-18-10_5345789.pdf" unitName="9" pushTime="2013年12月18日10:53:45" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5345789.pdf" update="true"/>
+    <file fileName="浙江省第十二届人民代表大会第一次会议副秘书长名单" fileNameOg="2013-12-18-10_5332831.pdf" unitName="9" pushTime="2013年12月18日10:53:32" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5332831.pdf" update="true"/>
+    <file fileName="各专们委员会组成人员名单" fileNameOg="2013-12-18-10_5319498.pdf" unitName="9" pushTime="2013年12月18日10:53:19" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_5319498.pdf" update="true"/>
+  </channel>
+  <channel tilte="最新文件" update="true">
+    <file fileName="李强在省十二届人大一次会议闭幕式上的表态发言" fileNameOg="2013-12-18-10_2924873.pdf" unitName="2" pushTime="2013年12月18日10:29:24" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2924873.pdf" update="true"/>
+    <file fileName="夏宝龙在省十二届人大一次会议闭幕时的讲话" fileNameOg="2013-12-18-10_2908970.pdf" unitName="2" pushTime="2013年12月18日10:29:08" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2908970.pdf" update="true"/>
+    <file fileName="关于浙江省第十二届人民代表大会第一次会议代表提出的议案处理意见的报告" fileNameOg="2013-12-18-10_2855327.pdf" unitName="2" pushTime="2013年12月18日10:28:55" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2855327.pdf" update="true"/>
+    <file fileName="关于接受夏宝龙辞去浙江省省长职务" fileNameOg="2013-12-18-10_2840988.pdf" unitName="2" pushTime="2013年12月18日10:28:40" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2840988.pdf" update="true"/>
+    <file fileName="关于接受吴顺江辞去省人大常委会" fileNameOg="2013-12-18-10_2825605.pdf" unitName="2" pushTime="2013年12月18日10:28:25" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2825605.pdf" update="true"/>
+    <file fileName="关于2012年全省和省级预算执行情况" fileNameOg="2013-12-18-10_2813262.pdf" unitName="2" pushTime="2013年12月18日10:28:13" url="http://oa.risencn.com:2580/atts/HyMaterial/2013-12-18-10_2813262.pdf" update="true"/>
+  </channel>
+</uixml>

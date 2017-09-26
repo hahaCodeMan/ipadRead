@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<uixml>
+  <date dataDis="1月23日 (星期四) ">
+    <time timeDis="下午">
+      <metting meetingName="代表报到" mettingNo="一" update="true"/>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="6 时30 分省委举行“两会”党员代表、委员会议" mettingNo="一" update="true"/>
+    </time>
+  </date>
+  <date dataDis="1月24日 (星期五) ">
+    <time timeDis="上午">
+      <metting meetingName="代表团全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="推选代表团团长、副团长和临时党支部书记、副
+书记、委员" update="true"/>
+        <mettingTopic topicNo="2" title="审议大会主席团和秘书长名单草案、大会议程草
+案、计划预算审查委员会名单草案" update="true">
+          <attachment fileName="浙江省第十二届人民代表大会第一次会议议程" fileNameOg="2014-01-23-12_0335495.pdf" id="10448" url="http://oa.risencn.com:2580/atts/HyMaterial/2014-01-23-12_0335495.pdf" update="true"/>
+        </mettingTopic>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="主席团举行第一次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="推选主席团常务主席" update="true"/>
+        <mettingTopic topicNo="2" title="通过大会执行主席分组名单" update="true"/>
+        <mettingTopic topicNo="3" title="通过会议日程" update="true"/>
+        <mettingTopic topicNo="4" title="决定大会副秘书长" update="true"/>
+        <mettingTopic topicNo="5" title="决定议案截止日期" update="true"/>
+        <mettingTopic topicNo="6" title="通过省十二届人大一次会议表决议案办法" update="true"/>
+        <mettingTopic topicNo="7" title="讨论省十二届人大一次会议选举办法（草案）和
+省十二届人大一次会议关于省十二届人大专门
+委员会组成人员人选通过办法（草案），提请代
+表酝酿" update="true"/>
+      </metting>
+      <metting meetingName="2 时30 分举行预备会议" mettingNo="二" update="true">
+        <mettingTopic topicNo="1" title="选举大会主席团和秘书长" update="true"/>
+        <mettingTopic topicNo="2" title="通过大会议程" update="true"/>
+        <mettingTopic topicNo="3" title="通过计划预算审查委员会名单" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月25日 (星期六) ">
+    <time timeDis="上午">
+      <metting meetingName="9 时整大会开幕" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="李强代省长作政府工作报告" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="代表团全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="审议政府工作报告和计划报告、预算报告" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月26日 (星期日) ">
+    <time timeDis="上午">
+      <metting meetingName="审议政府工作报告" mettingNo="一" update="true"/>
+      <metting meetingName="代表团全体会议或代表小组会议" mettingNo="二" update="true"/>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="代表小组会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="讨论省十二届人大一次会议选举办法（草案)和
+省十二届人大一次会议关于省十二届人大专门
+委员会组成人员人选通过办法（草案）" update="true"/>
+        <mettingTopic topicNo="2" title="审议计划报告、预算报告" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="6 时30 分举行主席团第二次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="听取关于省十二届人大一次会议选举办法（草案）
+和省十二届人大一次会议关于省十二届人大专门委
+员会组成人员人选通过办法（草案）讨论情况的
+汇报，并通过这两个办法草案，提请大会表决" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月27日 (星期一) ">
+    <time timeDis="上午">
+      <metting meetingName="计划预算审查委员会举行会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="审查计划草案和预算草案" update="true"/>
+      </metting>
+      <metting meetingName="代表团全体会议" mettingNo="二" update="true">
+        <mettingTopic topicNo="1" title="推荐监票人人选" update="true"/>
+        <mettingTopic topicNo="2" title="审议政府工作报告和计划报告、预算报告" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="2 时30 分举行第二次全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="省人大常委会副主任王永明作省人大常委会工
+作报告" update="true"/>
+        <mettingTopic topicNo="2" title="省高级人民法院院长齐奇作省高级人民法院工
+作报告" update="true"/>
+        <mettingTopic topicNo="3" title="省人民检察院检察长陈云龙作省人民检察院工
+作报告" update="true"/>
+        <mettingTopic topicNo="4" title="通过省十二届人大一次会议选举办法" update="true"/>
+        <mettingTopic topicNo="5" title="通过省十二届人大一次会议关于省十二届人大
+专门委员会组成人员人选通过办法" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="6 时30 分主席团举行第三次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="听取各代表团关于审议政府工作报告和计划报
+告、预算报告情况的汇报" update="true"/>
+        <mettingTopic topicNo="2" title="提出省十二届人大常委会组成人员、正副省长、
+省高级人民法院院长、省人民检察院检察长候选
+人及省十二届人大各专门委员会组成人员名单
+草案，交全体代表酝酿、讨论" update="true"/>
+        <mettingTopic topicNo="3" title="把依法联合提出的浙江省出席第十二届全国人
+民代表大会代表候选人名单提交全体代表酝酿、
+讨论" update="true"/>
+        <mettingTopic topicNo="4" title="决定大会监票人；提出大会总监票人名单草案，
+提请大会表决" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月28日 (星期二) ">
+    <time timeDis="上午">
+      <metting meetingName="计划预算审查委员会举行会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="通过关于计划草案和预算草案的2 个审查报告
+（注：1 月28 日12 时整为代表议案截止日期）" update="true"/>
+      </metting>
+      <metting meetingName="代表小组会议" mettingNo="二" update="true">
+        <mettingTopic topicNo="1" title="审议省人大常委会工作报告" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="代表小组会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="审议省高级人民法院工作报告、省人民检察院
+工作报告" update="true"/>
+        <mettingTopic topicNo="2" title="酝酿各项候选人名单、大会总监票人名单
+〔注:1 月28 日17 时整为代表联名提名(推荐)各
+项候选人截止时间〕" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="6 时30 分主席团举行第四次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="听取代表联名提名(推荐)各项候选人情况汇报" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月29日 (星期三) ">
+    <time timeDis="上午">
+      <metting meetingName="代表团全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="审议省人大常委会工作报告和省高级人民法院
+工作报告、省人民检察院工作报告" update="true"/>
+        <mettingTopic topicNo="2" title="酝酿、讨论代表联名提名(推荐)的各项候选人
+名单" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="继续酝酿各项候选人名单" mettingNo="一" update="true"/>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="6 时30 分主席团举行第五次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="听取各代表团关于审议省人大常委会工作报告
+和省高级人民法院工作报告、省人民检察院工作
+报告情况的汇报" update="true"/>
+        <mettingTopic topicNo="2" title="通过关于计划、预算的2 个审查报告" update="true"/>
+        <mettingTopic topicNo="3" title="提出关于政府工作报告等6 个决议草案，提请代
+表酝酿" update="true"/>
+        <mettingTopic topicNo="4" title="听取代表酝酿、讨论各项候选人情况的汇报，
+确定省十二届人大常委会主任、副主任、省长、
+副省长、省高级人民法院院长、省人民检察院检
+察长、浙江省出席第十二届全国人民代表大会代
+表正式候选人名单" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月30日 (星期四) ">
+    <time timeDis="上午">
+      <metting meetingName="代表小组会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="酝酿各项正式候选人名单" update="true"/>
+        <mettingTopic topicNo="2" title="酝酿各项决议草案" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="2 时30 分举行第三次全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="通过大会总监票人名单" update="true"/>
+        <mettingTopic topicNo="2" title="选举省十二届人大常委会主任、省长、省高级人
+民法院院长、省人民检察院检察长" update="true"/>
+        <mettingTopic topicNo="3" title="选举浙江省出席第十二届全国人民代表大会代表" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="晚上">
+      <metting meetingName="7 时30 分主席团举行第六次会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="通过大会各项决议草案，提请大会表决" update="true"/>
+        <mettingTopic topicNo="2" title="确定省十二届人大常委会秘书长、委员正式候选
+人名单和省十二届人大各专门委员会组成人员
+人选建议名单" update="true"/>
+        <mettingTopic topicNo="3" title="通过关于议案处理意见的报告" update="true"/>
+      </metting>
+    </time>
+  </date>
+  <date dataDis="1月31日 (星期五) ">
+    <time timeDis="上午">
+      <metting meetingName="9 时整举行第四次全体会议" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="选举省十二届人大常委会副主任、副省长" update="true"/>
+      </metting>
+    </time>
+    <time timeDis="下午">
+      <metting meetingName="会议闭幕" mettingNo="一" update="true">
+        <mettingTopic topicNo="1" title="省长表态发言" update="true"/>
+        <mettingTopic topicNo="2" title="省人大常委会主任致闭幕词" update="true"/>
+      </metting>
+      <metting meetingName="2 时30 分举行第五次全体会议" mettingNo="二" update="true">
+        <mettingTopic topicNo="1" title="选举省十二届人大常委会秘书长和委员" update="true"/>
+        <mettingTopic topicNo="2" title="通过省十二届人大各专门委员会组成人员名单" update="true"/>
+        <mettingTopic topicNo="3" title="通过关于各项工作报告的决议" update="true"/>
+      </metting>
+    </time>
+  </date>
+</uixml>

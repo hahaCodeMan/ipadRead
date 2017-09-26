@@ -1,0 +1,50 @@
+//
+// Copyright (c) 2013 RoboReader ( http://brainfaq.ru/roboreader )
+//
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
+//
+// The above copyright notice and this permission notice shall be included in
+// all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+// THE SOFTWARE.
+
+#import "RoboAppDelegate.h"
+#import "NewPaintListViewController.h"
+#import "LoginController.h"
+#import "YJWNavigationController.h"
+@implementation RoboAppDelegate
+
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
+
+    mainWindow = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+
+    //mainWindow.backgroundColor = [UIColor colorWithRed:0/255.0 green:103/255.0 blue:79/255.0 alpha:1.0]; // Window background color
+
+    roboDemoController = [[LoginController alloc] initWithNibName:nil bundle:nil];
+
+    navigationController = [[YJWNavigationController alloc] initWithRootViewController:roboDemoController];
+
+    navigationController.navigationBar.hidden = YES;
+
+    mainWindow.rootViewController = navigationController;
+
+    [mainWindow makeKeyAndVisible];
+
+    return YES;
+}
+
+
+@end
